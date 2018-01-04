@@ -1,3 +1,8 @@
+# sshpf
+
+[![Build Status](https://drone.honestbee.com/api/badges/honestbee/sshpf/status.svg "Drone build status")](https://drone.honestbee.com/honestbee/sshpf)
+[![Docker Repository on Quay](https://img.shields.io/badge/container-ready-brightgreen.svg "Docker Repository on Quay")](https://quay.io/repository/honestbee/sshpf?tab=tags)
+
 Command sshpf provides a minimalistic ssh server only allowing port
 forwarding to an (optionally) limited set of addresses.
 
